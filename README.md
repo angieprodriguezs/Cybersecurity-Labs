@@ -21,7 +21,7 @@ This repository contains three Windows security labs demonstrating practical ski
 - Process Explorer (Sysinternals Suite)  
 - Autoruns (Sysinternals Suite)  
 - Windows Event Viewer
-- 
+  
 - **Skills Demonstrated:** Threat detection, malware removal, endpoint security.
 
 ### 2. Auditing Windows Systems for Security Compliance 
