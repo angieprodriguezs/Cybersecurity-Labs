@@ -12,7 +12,7 @@ This repository contains three Windows security labs demonstrating practical ski
   - Removed malware and verified system stability.
 - **Skills Demonstrated:** Threat detection, malware removal, endpoint security.
 
-### 2. Auditing Windows Systems for Security Compliance
+### 2. Auditing Windows Systems for Security Compliance https://github.com/angieprodriguezs/Cybersecurity-Labs/blob/main/Auditing%20Windows%20Systems%20for%20Security%20Compliance%20(4e)%20-%20Angie%20Rodriguez.pdf
 - **Objective:** Perform a security audit on Windows systems to ensure compliance with security policies.
 - **Key Steps:**
   - Reviewed security settings and configurations.
