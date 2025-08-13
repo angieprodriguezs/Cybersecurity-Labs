@@ -4,7 +4,7 @@ This repository contains three Windows security labs demonstrating practical ski
 
 ## Labs
 
-### 1. Identifying and Removing Malware from Windows Systems 
+### 1. Identifying and Removing Malware from Windows Systems https://github.com/angieprodriguezs/Cybersecurity-Labs/blob/main/Identifying%20and%20Removing%20Malware%20from%20Windows%20Systems.pdf
 - **Objective:** Detect and remove malicious software from a compromised Windows system.
 - **Key Steps:**
   - Used anti-malware tools to scan and identify threats.
