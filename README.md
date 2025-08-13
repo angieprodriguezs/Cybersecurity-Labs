@@ -28,8 +28,6 @@ This repository contains three Windows security labs demonstrating practical ski
   - Configured firewall and security baselines.
 - **Skills Demonstrated:** System hardening, policy enforcement, vulnerability reduction.
 
-  Add cybersecurity labs README
-
 
 ## Author
 **Angie Rodriguez** – Cybersecurity Student & Aspiring Security Analyst
